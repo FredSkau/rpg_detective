@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective\build\windows\x64\CMakeFiles\40fc7a81e76566bd28e2e7ebf6039487\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2A9CDC01-D90A-3555-9B09-D99FEF07D36F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

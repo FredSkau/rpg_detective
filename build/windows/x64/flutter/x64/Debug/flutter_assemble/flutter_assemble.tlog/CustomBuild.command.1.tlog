@@ -1,0 +1,28 @@
+^C:\USERS\FRESKA\DOCUMENTS\REPOS\GKI\RPG\RPG_DETECTIVE\BUILD\WINDOWS\X64\CMAKEFILES\B963E2286C7F10FE8633731E4A04C735\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\freska\Documents\SDKs\flutter PROJECT_DIR=C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective FLUTTER_ROOT=C:\Users\freska\Documents\SDKs\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective\windows\flutter\ephemeral PROJECT_DIR=C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective FLUTTER_TARGET=C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective\lib\main.dart DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzIuOA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZWRhZGE3YzU2ZQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZWYwY2QwMDA5MQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My44LjE= DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\freska\Documents\Repos\GKI\RPG\rpg_detective\.dart_tool\package_config.json C:/Users/freska/Documents/SDKs/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FRESKA\DOCUMENTS\REPOS\GKI\RPG\RPG_DETECTIVE\BUILD\WINDOWS\X64\CMAKEFILES\66B071458259D013606185BE5449AB84\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FRESKA\DOCUMENTS\REPOS\GKI\RPG\RPG_DETECTIVE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/windows -BC:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64 --check-stamp-file C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

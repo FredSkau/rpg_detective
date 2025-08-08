@@ -1,0 +1,10 @@
+^C:\USERS\FRESKA\DOCUMENTS\REPOS\GKI\RPG\RPG_DETECTIVE\BUILD\WINDOWS\X64\CMAKEFILES\2E70EBCD513B149F40CBE16A233B3920\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
