@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.12.6+db5f6012c for .NET Framework
-      Build started 07-Aug-25 12:14:19.
+      Build started 08-Aug-25 13:38:14.
       
       Project "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\3.29.5-msvc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.08
+      Time Elapsed 00:00:01.16
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -72,8 +72,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-7bgihl"
-      binary: "C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-7bgihl"
+      source: "C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-ss67xv"
+      binary: "C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-ss67xv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -83,40 +83,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-7bgihl'
+        Change Dir: 'C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-ss67xv'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_70f02.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_754d5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.12.6+db5f6012c for .NET Framework
-        Build started 07-Aug-25 12:14:21.
+        Build started 08-Aug-25 13:38:18.
         
-        Project "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-7bgihl\\cmTC_70f02.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-ss67xv\\cmTC_754d5.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_70f02.dir\\Debug\\".
+          Creating directory "cmTC_754d5.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-7bgihl\\Debug\\".
-          Creating directory "cmTC_70f02.dir\\Debug\\cmTC_70f02.tlog\\".
+          Creating directory "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-ss67xv\\Debug\\".
+          Creating directory "cmTC_754d5.dir\\Debug\\cmTC_754d5.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_70f02.dir\\Debug\\cmTC_70f02.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_70f02.dir\\Debug\\cmTC_70f02.tlog\\unsuccessfulbuild".
+          Creating "cmTC_754d5.dir\\Debug\\cmTC_754d5.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_754d5.dir\\Debug\\cmTC_754d5.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_70f02.dir\\Debug\\\\" /Fd"cmTC_70f02.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_754d5.dir\\Debug\\\\" /Fd"cmTC_754d5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.42.34433 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_70f02.dir\\Debug\\\\" /Fd"cmTC_70f02.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_754d5.dir\\Debug\\\\" /Fd"cmTC_754d5.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-7bgihl\\Debug\\cmTC_70f02.exe" /INCREMENTAL /ILK:"cmTC_70f02.dir\\Debug\\cmTC_70f02.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-7bgihl/Debug/cmTC_70f02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-7bgihl/Debug/cmTC_70f02.lib" /MACHINE:X64  /machine:x64 cmTC_70f02.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_70f02.vcxproj -> C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-7bgihl\\Debug\\cmTC_70f02.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-ss67xv\\Debug\\cmTC_754d5.exe" /INCREMENTAL /ILK:"cmTC_754d5.dir\\Debug\\cmTC_754d5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-ss67xv/Debug/cmTC_754d5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/freska/Documents/Repos/GKI/RPG/rpg_detective/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-ss67xv/Debug/cmTC_754d5.lib" /MACHINE:X64  /machine:x64 cmTC_754d5.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_754d5.vcxproj -> C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-ss67xv\\Debug\\cmTC_754d5.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_70f02.dir\\Debug\\cmTC_70f02.tlog\\unsuccessfulbuild".
-          Touching "cmTC_70f02.dir\\Debug\\cmTC_70f02.tlog\\cmTC_70f02.lastbuildstate".
-        Done Building Project "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-7bgihl\\cmTC_70f02.vcxproj" (default targets).
+          Deleting file "cmTC_754d5.dir\\Debug\\cmTC_754d5.tlog\\unsuccessfulbuild".
+          Touching "cmTC_754d5.dir\\Debug\\cmTC_754d5.tlog\\cmTC_754d5.lastbuildstate".
+        Done Building Project "C:\\Users\\freska\\Documents\\Repos\\GKI\\RPG\\rpg_detective\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-ss67xv\\cmTC_754d5.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.59
+        Time Elapsed 00:00:00.84
         
       exitCode: 0
   -
