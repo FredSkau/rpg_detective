@@ -33,6 +33,9 @@ migrate_working_dir/
 .pub/
 /build/
 
+# Exclude generated Windows build artifacts
+windows/flutter/ephemeral/
+
 # Symbolication related
 app.*.symbols
 
